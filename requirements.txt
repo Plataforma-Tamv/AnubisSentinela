@@ -1,0 +1,6 @@
+telethon
+asyncio
+requests
+beautifulsoup4
+tinydb
+sql
